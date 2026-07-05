@@ -1,5 +1,7 @@
 # Neural Network From Scratch
 
+### [Repository Link](https://github.com/tuhindutta/neural-network-from-scratch)
+
 A minimal neural network implementation built entirely with NumPy to demonstrate how a neural network learns through:
 
 * Forward Propagation
