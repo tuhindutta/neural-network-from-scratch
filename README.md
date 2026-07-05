@@ -1,7 +1,7 @@
 # Neural Network From Scratch
 
 ### [Repository Link](https://github.com/tuhindutta/neural-network-from-scratch)
-### [Handwritten Notes](https://github.com/tuhindutta/neural-network-from-scratch/blob/main/notes.pdf)
+### [Handwritten Notes](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/tuhindutta/neural-network-from-scratch/refs/heads/main/notes.pdf)
 
 A minimal neural network implementation built entirely with NumPy to demonstrate how a neural network learns through:
 
